@@ -1,0 +1,95 @@
+{
+  "etudiant": [
+    {
+      "id": 4,
+      "nom": "tijani",
+      "prenom": "bou fa7ja",
+      "mail": "tigani@gmail.com1",
+      "moyenne": "12.30"
+    },
+    {
+      "id": 1,
+      "nom": "yassine",
+      "prenom": "bousetta",
+      "mail": "bb@tra.cho",
+      "moyenne": "30"
+    },
+    {
+      "id": 5,
+      "nom": "maouia",
+      "prenom": "boukachta",
+      "mail": "kachouta@trab.mz",
+      "moyenne": "25"
+    },
+    {
+      "id": 6,
+      "nom": "45",
+      "prenom": "45",
+      "mail": "45",
+      "moyenne": "45.1"
+    },
+    {
+      "id": 7,
+      "nom": "mbarek",
+      "prenom": "boufahja",
+      "mail": "barouk12@grail.tn",
+      "moyenne": "16"
+    },
+    {
+      "id": 8,
+      "nom": "za",
+      "prenom": "zaz",
+      "mail": "aa@hh",
+      "moyenne": "55"
+    },
+    {
+      "id": 9,
+      "nom": "ty",
+      "prenom": "gf",
+      "mail": "ggbg@bom.ntn",
+      "moyenne": null
+    },
+    {
+      "id": 10,
+      "nom": "tigani",
+      "prenom": "adams",
+      "mail": "bouja@jj.nn",
+      "moyenne": "15"
+    },
+    {
+      "id": 11,
+      "nom": "aa",
+      "prenom": "ss",
+      "mail": "ss.ss",
+      "moyenne": "125"
+    },
+    {
+      "id": 12,
+      "nom": "dd",
+      "prenom": "dd",
+      "mail": "ddd",
+      "moyenne": "452"
+    },
+    {
+      "id": 13,
+      "nom": "aa",
+      "prenom": "aa",
+      "mail": "aa@hh",
+      "moyenne": "99"
+    },
+    {
+      "id": 14,
+      "nom": "aa",
+      "prenom": "aa",
+      "mail": "aa@hh",
+      "moyenne": "aa"
+    },
+    {
+      "id": 15,
+      "nom": "naya",
+      "prenom": "ya",
+      "mail": "ss",
+      "moyenne": "12"
+    }
+  ]
+}
